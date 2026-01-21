@@ -33,19 +33,19 @@ Bachelor of Engineering (BEng) in Computer Engineering
 **Digital Health Resource Centre (DHRC), AKDN** | Toronto, ON | *May 2023 - Aug 2023*
 - Developed TensorFlow-based application for skin condition detection
 - Curated & annotated 3,000+ image dataset using Roboflow & Python
-- Achieved ~75% classification accuracy on skin condition detection
+- Achieved ~70% classification accuracy on skin condition detection
 
 ## Featured Projects
 
-### Vision-Guided Autonomous Robot
+### Vision-Guided Autonomous Robot (In-Progress)
 **Python | TensorFlow** | *Sep 2024*
-- Leading a team of 5+ developers to build an autonomous robot with computer vision
+- Leading a team of 6 developers to build an autonomous robot with computer vision
 - Integrating real-time sensor data with AI-driven pathfinding algorithms (A*)
 
-### Dermatology AI (DermAI) Image Detection Program
+### Dermatology AI (DermAI) Image Detection Program (In-Progress)
 **C | OpenCV** | *Jul 2024*
 - Enhanced TensorFlow-based model for skin lesion detection using TFRecord
-- Trained CNN achieving ~90% classification accuracy
+- Trained CNN achieving ~80% classification accuracy
 
 ## Technical Skills
 
