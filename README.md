@@ -7,7 +7,7 @@
 
 ## About Me
 
-Full-stack software developer with experience in machine learning and data analysis. I'm passionate about building automation pipelines, developing data-driven solutions, and creating AI-powered applications. Currently studying Computer Engineering at Toronto Metropolitan University.
+Full-stack software developer with experience in software development and data analysis. I'm passionate about developing data-driven solutions, in whatever form they may take! Currently studying Computer Engineering at Toronto Metropolitan University.
 
 ## Education
 
